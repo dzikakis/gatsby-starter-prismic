@@ -4,7 +4,7 @@ module.exports = {
   titleAlt: 'Gatsby Prismic.io', // Title for JSONLD
   description: 'A typography-heavy & light-themed Gatsby Starter which uses the Headless CMS Prismic.',
   headline: 'Writing and publishing content for LekoArts', // Headline for schema.org JSONLD
-  url: 'https://prismic.lekoarts.de', // Domain of your site. No trailing slash!
+  url: 'https://nervous-brown-4afb31.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   logo: '/logos/logo-1024.png', // Used for SEO
   ogLanguage: 'en_US', // Facebook Language
